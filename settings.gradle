@@ -1,0 +1,2 @@
+rootProject.name = "Crud-sis21b"
+include ':app'
